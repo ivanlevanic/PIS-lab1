@@ -9,6 +9,4 @@ namespace ConsoleApp1
     class NewClass
     {
     }
-    
-    class Nova {}
 }
