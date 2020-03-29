@@ -10,5 +10,5 @@ namespace ConsoleApp1
     {
     }
     
-    class Novo {}
+    class Nova {}
 }
